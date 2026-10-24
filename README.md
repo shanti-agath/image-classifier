@@ -37,10 +37,10 @@ Try the CIFAR-10 dataset (colour images)
 Try transfer learning with a pre-trained model
 
 🚀 How to Run
-``Bash
+```bash
 pip install -r requirements.txt
 jupyter notebook image_classifier.ipynb
-``
+```
 
 The dataset downloads automatically the first time you run the notebook.
 
